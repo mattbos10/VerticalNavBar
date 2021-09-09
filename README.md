@@ -1,3 +1,0 @@
-# VerticalNavbar
-# VerticalNavBar
-# VerticalNavBar
